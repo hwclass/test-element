@@ -1,7 +1,14 @@
-seed-element
+test-element
 ================
 
 See the [component page](http://polymerlabs.github.io/seed-element) for more information.
+
+###Usage
+<pre lang="html">
+<code>
+<test-element></test-element>
+</code>
+</pre>
 
 ## Getting Started
 
